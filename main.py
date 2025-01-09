@@ -3,3 +3,7 @@ def addition(a,b):
 
 
 print(addition(2,3))
+print(addition(2,3))
+print(addition(2,3))
+print(addition(2,3))
+print(addition(2,3))
